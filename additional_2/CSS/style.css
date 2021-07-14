@@ -1,0 +1,10 @@
+.wrap{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.post-card {
+    width: 19%;
+    padding-left: 3px;
+    padding-right: 3px;
+}
